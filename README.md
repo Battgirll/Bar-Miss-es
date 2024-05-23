@@ -4,20 +4,6 @@
 Segue a senha das fotos secretas 
 .
 
-f
-o
-t
-o
-s
+fotos das missoes 
 
-d
-a
-s
-
-m
-i
-s
-s
-o
-e
-s
+anotar no link do site.
